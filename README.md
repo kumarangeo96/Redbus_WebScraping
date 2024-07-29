@@ -1,2 +1,1 @@
-# Redbus_WebScraping
-Scraping the bus route data from Redbus.in using Selenium 
+**Objective:** This project is to create a streamlit application for travelers to know about the routes operated by the Government transportation and the types of services provided and also details of the buses operated by private transportation.
